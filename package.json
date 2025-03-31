@@ -2,9 +2,9 @@
   "name": "slashcommandpackage",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node src/index.js"
+    "test": "node index.js"
   },
   "author": "",
   "license": "ISC",
